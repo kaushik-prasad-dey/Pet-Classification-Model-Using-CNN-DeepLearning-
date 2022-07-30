@@ -40,11 +40,4 @@ This should be followed by training and evaluation:
 
 ● For the training step, define the loss function and minimize it 
 
-● For the evaluation step, calculate the accuracy 
-
-Run the program for 100, 200, and 300 iterations, respectively. Follow this by a report on the final accuracy and loss on the evaluation data. 
-
-
-Prerequisites:
-
-To execute this project, please ensure you have the latest version of TensorFlow installed on your system.
+● For the evaluation step, calculate the accuracy.
